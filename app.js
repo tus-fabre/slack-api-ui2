@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 5b - ボタンの配置とアクションを定義する
+ *  Lesson UI 2 - ボタンの配置とアクションを定義する
  * 
  * [NOTE]
  */
