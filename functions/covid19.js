@@ -180,7 +180,7 @@ exports.getCountries = async () => {
     }
     blocks.push(objheader);
 
-    let menu_num = Math.floor(result.length / numMenuItems) + 1;
+    let menu_num = Math.ceil(result.length / numMenuItems);
     let n = 0;
     for (let m = 1; m <= menu_num; m++) {
       // 選択メニューを形成するセクション構造を生成する
